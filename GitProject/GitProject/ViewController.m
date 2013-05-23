@@ -19,7 +19,10 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"this is a major code change");
+
     NSLog(@"forcing an error");
+    
+    NSLog(@"this is a change made in github");
 }
 
 - (void)didReceiveMemoryWarning
